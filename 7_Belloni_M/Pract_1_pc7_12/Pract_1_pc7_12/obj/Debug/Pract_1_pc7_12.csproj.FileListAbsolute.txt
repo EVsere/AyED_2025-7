@@ -1,0 +1,6 @@
+C:\Users\Ema\OneDrive\Desktop\Ema\Pract_1_pc7_12\Pract_1_pc7_12\bin\Debug\Pract_1_pc7_12.exe.config
+C:\Users\Ema\OneDrive\Desktop\Ema\Pract_1_pc7_12\Pract_1_pc7_12\bin\Debug\Pract_1_pc7_12.exe
+C:\Users\Ema\OneDrive\Desktop\Ema\Pract_1_pc7_12\Pract_1_pc7_12\bin\Debug\Pract_1_pc7_12.pdb
+C:\Users\Ema\OneDrive\Desktop\Ema\Pract_1_pc7_12\Pract_1_pc7_12\obj\Debug\Pract_1_pc7_12.csprojResolveAssemblyReference.cache
+C:\Users\Ema\OneDrive\Desktop\Ema\Pract_1_pc7_12\Pract_1_pc7_12\obj\Debug\Pract_1_pc7_12.exe
+C:\Users\Ema\OneDrive\Desktop\Ema\Pract_1_pc7_12\Pract_1_pc7_12\obj\Debug\Pract_1_pc7_12.pdb
