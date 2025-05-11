@@ -4,26 +4,23 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Pract_1_pc7_12
+namespace _1_pc7_tp7
 {
     class Program
     {
         static void Main(string[] args)
         {
-            //Escriba un programa que pregunte una y otra vez si desea terminar el programa, salvo si se contesta exactamente SI (en mayúsculas y sin tilde).
-            string resp;
+            //Escribir un programa que pida al usuario una palabra 
+            //y la muestre por pantalla 10 veces.
 
-            Console.WriteLine("Desea cerrar el programa?");
-            resp = Console.ReadLine();
-
-            while (resp != "SI")
+            string pal;
+            Console.WriteLine("Ingrese una palabra");
+            pal = (Console.ReadLine());
+            for (int cont = 0; cont <= 10; cont++)
             {
-                Console.WriteLine("Desea cerrar el programa?");
-                resp = Console.ReadLine();
+                Console.WriteLine(pal);
+
             }
-            
-
-
             Console.ReadKey();
         }
     }
