@@ -1,6 +1,0 @@
-C:\Users\alumno.ET37\Desktop\7_Belloni_Eres\7_Eres_J\2_pc7_0\2_pc7_0\bin\Debug\2_pc7_0.exe.config
-C:\Users\alumno.ET37\Desktop\7_Belloni_Eres\7_Eres_J\2_pc7_0\2_pc7_0\bin\Debug\2_pc7_0.exe
-C:\Users\alumno.ET37\Desktop\7_Belloni_Eres\7_Eres_J\2_pc7_0\2_pc7_0\bin\Debug\2_pc7_0.pdb
-C:\Users\alumno.ET37\Desktop\7_Belloni_Eres\7_Eres_J\2_pc7_0\2_pc7_0\obj\Debug\2_pc7_0.csprojResolveAssemblyReference.cache
-C:\Users\alumno.ET37\Desktop\7_Belloni_Eres\7_Eres_J\2_pc7_0\2_pc7_0\obj\Debug\2_pc7_0.exe
-C:\Users\alumno.ET37\Desktop\7_Belloni_Eres\7_Eres_J\2_pc7_0\2_pc7_0\obj\Debug\2_pc7_0.pdb
