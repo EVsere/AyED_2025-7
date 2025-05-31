@@ -1,0 +1,6 @@
+C:\Users\Ema\OneDrive\Desktop\Ema\2_pc7_3\2_pc7_3\bin\Debug\2_pc7_3.exe.config
+C:\Users\Ema\OneDrive\Desktop\Ema\2_pc7_3\2_pc7_3\bin\Debug\2_pc7_3.exe
+C:\Users\Ema\OneDrive\Desktop\Ema\2_pc7_3\2_pc7_3\bin\Debug\2_pc7_3.pdb
+C:\Users\Ema\OneDrive\Desktop\Ema\2_pc7_3\2_pc7_3\obj\Debug\2_pc7_3.csprojResolveAssemblyReference.cache
+C:\Users\Ema\OneDrive\Desktop\Ema\2_pc7_3\2_pc7_3\obj\Debug\2_pc7_3.exe
+C:\Users\Ema\OneDrive\Desktop\Ema\2_pc7_3\2_pc7_3\obj\Debug\2_pc7_3.pdb
