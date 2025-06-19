@@ -1,0 +1,6 @@
+C:\Users\Marisa\Desktop\7_Belloni_Eres\Examen de taller\2_pc7_tp5\2_pc7_tp5\bin\Debug\2_pc7_tp5.exe.config
+C:\Users\Marisa\Desktop\7_Belloni_Eres\Examen de taller\2_pc7_tp5\2_pc7_tp5\bin\Debug\2_pc7_tp5.exe
+C:\Users\Marisa\Desktop\7_Belloni_Eres\Examen de taller\2_pc7_tp5\2_pc7_tp5\bin\Debug\2_pc7_tp5.pdb
+C:\Users\Marisa\Desktop\7_Belloni_Eres\Examen de taller\2_pc7_tp5\2_pc7_tp5\obj\Debug\2_pc7_tp5.csprojResolveAssemblyReference.cache
+C:\Users\Marisa\Desktop\7_Belloni_Eres\Examen de taller\2_pc7_tp5\2_pc7_tp5\obj\Debug\2_pc7_tp5.exe
+C:\Users\Marisa\Desktop\7_Belloni_Eres\Examen de taller\2_pc7_tp5\2_pc7_tp5\obj\Debug\2_pc7_tp5.pdb
