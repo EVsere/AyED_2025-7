@@ -1,0 +1,15 @@
+C:\Users\alumno.ET37\Desktop\tps\2_pc7_10\2_pc7_10\bin\Debug\2_pc7_10.exe.config
+C:\Users\alumno.ET37\Desktop\tps\2_pc7_10\2_pc7_10\bin\Debug\2_pc7_10.exe
+C:\Users\alumno.ET37\Desktop\tps\2_pc7_10\2_pc7_10\bin\Debug\2_pc7_10.pdb
+C:\Users\alumno.ET37\Desktop\tps\2_pc7_10\2_pc7_10\obj\Debug\2_pc7_10.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Desktop\tps\2_pc7_10\2_pc7_10\obj\Debug\2_pc7_10.exe
+C:\Users\alumno.ET37\Desktop\tps\2_pc7_10\2_pc7_10\obj\Debug\2_pc7_10.pdb
+D:\7_Belloni_Eres\7_Eres_J\tps\2_pc7_10\2_pc7_10\bin\Debug\2_pc7_10.exe.config
+D:\7_Belloni_Eres\7_Eres_J\tps\2_pc7_10\2_pc7_10\obj\Debug\2_pc7_10.exe
+D:\7_Belloni_Eres\7_Eres_J\tps\2_pc7_10\2_pc7_10\obj\Debug\2_pc7_10.pdb
+D:\7_Belloni_Eres\7_Eres_J\tps\2_pc7_10\2_pc7_10\bin\Debug\2_pc7_10.exe
+D:\7_Belloni_Eres\7_Eres_J\tps\2_pc7_10\2_pc7_10\bin\Debug\2_pc7_10.pdb
+D:\7_Belloni_Eres\7_Eres_J\tps\2_pc7_10\2_pc7_10\obj\Debug\2_pc7_10.csprojResolveAssemblyReference.cache
+D:\7_Belloni_Eres\7_Eres_J\2_pc7_10\2_pc7_10\bin\Debug\2_pc7_10.exe.config
+D:\7_Belloni_Eres\7_Eres_J\2_pc7_10\2_pc7_10\obj\Debug\2_pc7_10.exe
+D:\7_Belloni_Eres\7_Eres_J\2_pc7_10\2_pc7_10\obj\Debug\2_pc7_10.pdb
