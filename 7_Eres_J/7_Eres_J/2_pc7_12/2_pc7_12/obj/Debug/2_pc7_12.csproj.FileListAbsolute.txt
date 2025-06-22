@@ -1,0 +1,6 @@
+D:\7_Belloni_Eres\7_Eres_J\2_pc7_12\2_pc7_12\bin\Debug\2_pc7_12.exe.config
+D:\7_Belloni_Eres\7_Eres_J\2_pc7_12\2_pc7_12\bin\Debug\2_pc7_12.exe
+D:\7_Belloni_Eres\7_Eres_J\2_pc7_12\2_pc7_12\bin\Debug\2_pc7_12.pdb
+D:\7_Belloni_Eres\7_Eres_J\2_pc7_12\2_pc7_12\obj\Debug\2_pc7_12.csprojResolveAssemblyReference.cache
+D:\7_Belloni_Eres\7_Eres_J\2_pc7_12\2_pc7_12\obj\Debug\2_pc7_12.exe
+D:\7_Belloni_Eres\7_Eres_J\2_pc7_12\2_pc7_12\obj\Debug\2_pc7_12.pdb

@@ -1,0 +1,5 @@
+D:\7_Belloni_Eres\7_Eres_J\2_pc7_11\2_pc7_11\bin\Debug\2_pc7_11.exe.config
+D:\7_Belloni_Eres\7_Eres_J\2_pc7_11\2_pc7_11\bin\Debug\2_pc7_11.exe
+D:\7_Belloni_Eres\7_Eres_J\2_pc7_11\2_pc7_11\bin\Debug\2_pc7_11.pdb
+D:\7_Belloni_Eres\7_Eres_J\2_pc7_11\2_pc7_11\obj\Debug\2_pc7_11.exe
+D:\7_Belloni_Eres\7_Eres_J\2_pc7_11\2_pc7_11\obj\Debug\2_pc7_11.pdb
