@@ -1,0 +1,7 @@
+D:\7_Belloni_Eres\7_Eres_J\2_pc7_14\2_pc7_14\bin\Debug\2_pc7_14.exe.config
+G:\7_Belloni_Eres\Examen de taller\etapa 2\2_pc7_tp14\2_pc7_14\bin\Debug\2_pc7_14.exe.config
+G:\7_Belloni_Eres\Examen de taller\etapa 2\2_pc7_tp14\2_pc7_14\bin\Debug\2_pc7_14.exe
+G:\7_Belloni_Eres\Examen de taller\etapa 2\2_pc7_tp14\2_pc7_14\bin\Debug\2_pc7_14.pdb
+G:\7_Belloni_Eres\Examen de taller\etapa 2\2_pc7_tp14\2_pc7_14\obj\Debug\2_pc7_14.csprojResolveAssemblyReference.cache
+G:\7_Belloni_Eres\Examen de taller\etapa 2\2_pc7_tp14\2_pc7_14\obj\Debug\2_pc7_14.exe
+G:\7_Belloni_Eres\Examen de taller\etapa 2\2_pc7_tp14\2_pc7_14\obj\Debug\2_pc7_14.pdb
