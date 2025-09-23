@@ -1,0 +1,6 @@
+C:\Users\Marisa\Desktop\7_Belloni_Eres\7_Eres_J\3_7_tp3\3_7_tp3\bin\Debug\3_7_tp3.exe.config
+C:\Users\Marisa\Desktop\7_Belloni_Eres\7_Eres_J\3_7_tp3\3_7_tp3\obj\Debug\3_7_tp3.csprojResolveAssemblyReference.cache
+C:\Users\Marisa\Desktop\7_Belloni_Eres\7_Eres_J\3_7_tp3\3_7_tp3\bin\Debug\3_7_tp3.exe
+C:\Users\Marisa\Desktop\7_Belloni_Eres\7_Eres_J\3_7_tp3\3_7_tp3\bin\Debug\3_7_tp3.pdb
+C:\Users\Marisa\Desktop\7_Belloni_Eres\7_Eres_J\3_7_tp3\3_7_tp3\obj\Debug\3_7_tp3.exe
+C:\Users\Marisa\Desktop\7_Belloni_Eres\7_Eres_J\3_7_tp3\3_7_tp3\obj\Debug\3_7_tp3.pdb
